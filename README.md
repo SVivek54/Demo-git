@@ -1,2 +1,2 @@
 # Demo-git
-Author - Vivek
+Author - Vivek Sanagni. Demo case
